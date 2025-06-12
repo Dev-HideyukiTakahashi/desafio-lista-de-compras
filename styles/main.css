@@ -157,3 +157,7 @@
     background-color: var(--color-danger);
   }
 }
+
+.alert-show {
+  display: flex;
+}
